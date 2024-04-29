@@ -1,0 +1,5 @@
+* text = auto
+
+* .jepg binary
+* .jpg binary
+* .png binary

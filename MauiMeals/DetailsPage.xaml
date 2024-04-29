@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiMeals.DetailsPage"
+             Title="">
+
+    
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            
+        <!-- Première rangée avec le bouton retour -->
+        <ImageButton Source="red.jpeg" Grid.Row="0" Clicked="OnBackButtonClicked" HorizontalOptions="Center" HeightRequest="50" WidthRequest="50" 
+                      VerticalOptions="Start" />
+
+
+        <!-- Deuxieme rangée avec le nom du repas et le pays -->
+            <StackLayout Grid.Row="1" Orientation="Horizontal" VerticalOptions="Center" HorizontalOptions="Center" >
+                <Label Text="House of meals presents :" FontSize="15" />
+            <Label x:Name="lblMealName  " FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                <Label Text="  "  />
+                <Label Text="From:" FontSize="15" />
+            <Label x:Name="lblArea" FontSize="15" FontAttributes="Italic" TextColor="red"/>
+            </StackLayout>
+
+        <!-- 3e rangée Image -->
+            <StackLayout Grid.Row="2" Orientation="Vertical" VerticalOptions="Center" HorizontalOptions="Center">
+                <Image x:Name="mealImage" Aspect="AspectFit" 
+                     HeightRequest="150"
+                     WidthRequest="150"
+                   />
+                <StackLayout  Orientation="Horizontal" VerticalOptions="Center" HorizontalOptions="Center">
+                    <Label   Text="Category:" FontSize="15" />
+                    <Label  x:Name="lblCategory " FontSize="15"  FontAttributes="Bold" TextColor="LightCoral"/>
+                </StackLayout>
+
+            </StackLayout>
+        <!-- 4e rangée a gauche la liste des ingredients  -->
+        <StackLayout Grid.Row="3" Padding="5" BackgroundColor="white"  VerticalOptions="Start" HorizontalOptions="Start">
+                <ContentView 
+                     BackgroundColor="white"
+                     Padding="2"
+                     HeightRequest="170"
+                     WidthRequest="175">
+
+                   
+                    <Frame HasShadow="True"
+                       CornerRadius="20"
+                       Padding="0"
+                       BackgroundColor="White" 
+                       VerticalOptions="Start" HorizontalOptions="Start">
+                        
+                        <Grid VerticalOptions="Center" HorizontalOptions="Center">
+
+                            <ScrollView>
+                                <StackLayout  Orientation="Vertical"  >
+                                    <Label Text="Ingredients" FontSize="20" FontAttributes="Bold" VerticalOptions="Center" HorizontalOptions="Center"/>
+                                    <Label x:Name="lblIngredient1" FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                                    <Label x:Name="lblIngredient2" FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                                    <Label x:Name="lblIngredient3" FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                                    <Label x:Name="lblIngredient4" FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                                    <Label x:Name="lblIngredient5" FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                                    <Label x:Name="lblIngredient6" FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                                    <Label x:Name="lblIngredient7" FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                                    <Label x:Name="lblIngredient8" FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                                    <Label x:Name="lblIngredient9" FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                                    <Label x:Name="lblIngredient10" FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                                    <Label x:Name="lblIngredient11" FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                                    <Label x:Name="lblIngredient12" FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                                    <Label x:Name="lblIngredient13" FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                                    <Label x:Name="lblIngredient14" FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                                    <Label x:Name="lblIngredient15" FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+
+
+                                </StackLayout>
+                            </ScrollView>
+                        </Grid>
+
+
+
+
+                    </Frame>
+                </ContentView>
+            </StackLayout>
+        <!-- 4e rangée a droite la liste des ustensils de cuisine  -->
+        <StackLayout Grid.Row="3" Padding="5" BackgroundColor="white"  VerticalOptions="End" HorizontalOptions="End">
+                <ContentView 
+                  BackgroundColor="white"
+                  Padding="2"
+                  HeightRequest="170"
+                  WidthRequest="175">
+
+                   
+                    <Frame HasShadow="True"
+                        CornerRadius="20"
+                        Padding="0"
+                        BackgroundColor="White" 
+                        VerticalOptions="Start" HorizontalOptions="Start">
+                        
+
+                        <Grid VerticalOptions="Center" HorizontalOptions="Center">
+
+                            <ScrollView>
+                                <StackLayout  Orientation="Vertical" >
+                                    <Label Text="Kitchen Ustensils" FontSize="20" FontAttributes="Bold"  VerticalOptions="Center" HorizontalOptions="Center"/>
+                                    <Label x:Name="lblMeasure1  " FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                                    <Label x:Name="lblMeasure2  " FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                                    <Label x:Name="lblMeasure3  " FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                                    <Label x:Name="lblMeasure4  " FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                                    <Label x:Name="lblMeasure5  " FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                                    <Label x:Name="lblMeasure6  " FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                                    <Label x:Name="lblMeasure7  " FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                                    <Label x:Name="lblMeasure8  " FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                                    <Label x:Name="lblMeasure9  " FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                                    <Label x:Name="lblMeasure10  " FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                                    <Label x:Name="lblMeasure11  " FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                                    <Label x:Name="lblMeasure12  " FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                                    <Label x:Name="lblMeasure13  " FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                                    <Label x:Name="lblMeasure14  " FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+                                    <Label x:Name="lblMeasure15  " FontSize="15"  FontAttributes="Italic" TextColor="red"/>
+
+
+                            </StackLayout>
+                            </ScrollView>
+                        </Grid>
+
+
+
+
+                    </Frame>
+                </ContentView>
+            </StackLayout>
+
+
+
+            <!-- WebView en dernière partie -->
+        <Grid  Grid.Row="4">
+            <ScrollView>
+                <WebView x:Name="youtubeWebView" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
+            </ScrollView>
+        </Grid>
+    </Grid>
+
+</ContentPage>

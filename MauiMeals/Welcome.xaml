@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiMeals.Welcome"
+             Title="">
+
+
+    <Grid BackgroundColor="black">
+        <Image
+           Source="welcome33.png"
+           Aspect="Fill"  VerticalOptions="Fill"
+           HorizontalOptions="Fill" />
+
+       
+
+            <ImageButton Source="arrowrr.png"
+                    VerticalOptions="End"
+                       HorizontalOptions="Center"
+                    Clicked="ToMainpage"
+                    HeightRequest="60"
+                    WidthRequest="60"
+                    BackgroundColor="#D198C8"
+                    CornerRadius="45"
+              />
+
+            
+       
+
+    </Grid>
+    
+</ContentPage>

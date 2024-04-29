@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mardo\\Desktop\\23\\Dev_C#\\MauiMeals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22E216B9-A174-4E1F-93D2-C691635920EC}|MauiMeals\\MauiMeals.csproj|C:\\Users\\mardo\\Desktop\\23\\Dev_C#\\MauiMeals\\mauimeals\\detailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{22E216B9-A174-4E1F-93D2-C691635920EC}|MauiMeals\\MauiMeals.csproj|solutionrelative:mauimeals\\detailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E216B9-A174-4E1F-93D2-C691635920EC}|MauiMeals\\MauiMeals.csproj|C:\\Users\\mardo\\Desktop\\23\\Dev_C#\\MauiMeals\\mauimeals\\welcome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E216B9-A174-4E1F-93D2-C691635920EC}|MauiMeals\\MauiMeals.csproj|solutionrelative:mauimeals\\welcome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E216B9-A174-4E1F-93D2-C691635920EC}|MauiMeals\\MauiMeals.csproj|C:\\Users\\mardo\\Desktop\\23\\Dev_C#\\MauiMeals\\mauimeals\\detailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E216B9-A174-4E1F-93D2-C691635920EC}|MauiMeals\\MauiMeals.csproj|solutionrelative:mauimeals\\detailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E216B9-A174-4E1F-93D2-C691635920EC}|MauiMeals\\MauiMeals.csproj|c:\\users\\mardo\\desktop\\23\\dev_c#\\mauimeals\\mauimeals\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{22E216B9-A174-4E1F-93D2-C691635920EC}|MauiMeals\\MauiMeals.csproj|solutionrelative:mauimeals\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E216B9-A174-4E1F-93D2-C691635920EC}|MauiMeals\\MauiMeals.csproj|C:\\Users\\mardo\\Desktop\\23\\Dev_C#\\MauiMeals\\mauimeals\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E216B9-A174-4E1F-93D2-C691635920EC}|MauiMeals\\MauiMeals.csproj|solutionrelative:mauimeals\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E216B9-A174-4E1F-93D2-C691635920EC}|MauiMeals\\MauiMeals.csproj|c:\\users\\mardo\\desktop\\23\\dev_c#\\mauimeals\\mauimeals\\welcome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{22E216B9-A174-4E1F-93D2-C691635920EC}|MauiMeals\\MauiMeals.csproj|solutionrelative:mauimeals\\welcome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E216B9-A174-4E1F-93D2-C691635920EC}|MauiMeals\\MauiMeals.csproj|C:\\Users\\mardo\\Desktop\\23\\Dev_C#\\MauiMeals\\mauimeals\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E216B9-A174-4E1F-93D2-C691635920EC}|MauiMeals\\MauiMeals.csproj|solutionrelative:mauimeals\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E216B9-A174-4E1F-93D2-C691635920EC}|MauiMeals\\MauiMeals.csproj|C:\\Users\\mardo\\Desktop\\23\\Dev_C#\\MauiMeals\\mauimeals\\models\\mealsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E216B9-A174-4E1F-93D2-C691635920EC}|MauiMeals\\MauiMeals.csproj|solutionrelative:mauimeals\\models\\mealsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\mardo\\Desktop\\23\\Dev_C#\\MauiMeals\\MauiMeals\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "MauiMeals\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\mardo\\Desktop\\23\\Dev_C#\\MauiMeals\\MauiMeals\\Services\\ApiService.cs",
+              "RelativeToolTip": "MauiMeals\\Services\\ApiService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T04:40:27.536Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MealsModel.cs",
+              "DocumentMoniker": "C:\\Users\\mardo\\Desktop\\23\\Dev_C#\\MauiMeals\\MauiMeals\\Models\\MealsModel.cs",
+              "RelativeDocumentMoniker": "MauiMeals\\Models\\MealsModel.cs",
+              "ToolTip": "C:\\Users\\mardo\\Desktop\\23\\Dev_C#\\MauiMeals\\MauiMeals\\Models\\MealsModel.cs",
+              "RelativeToolTip": "MauiMeals\\Models\\MealsModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T04:39:41.71Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mardo\\Desktop\\23\\Dev_C#\\MauiMeals\\MauiMeals\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiMeals\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mardo\\Desktop\\23\\Dev_C#\\MauiMeals\\MauiMeals\\MainPage.xaml.cs",
+              "RelativeToolTip": "MauiMeals\\MainPage.xaml.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAcwEkAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T04:36:52.387Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mardo\\Desktop\\23\\Dev_C#\\MauiMeals\\MauiMeals\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MauiMeals\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\mardo\\Desktop\\23\\Dev_C#\\MauiMeals\\MauiMeals\\MainPage.xaml",
+              "RelativeToolTip": "MauiMeals\\MainPage.xaml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAGIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-21T04:40:59.738Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetailsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mardo\\Desktop\\23\\Dev_C#\\MauiMeals\\MauiMeals\\DetailsPage.xaml",
+              "RelativeDocumentMoniker": "MauiMeals\\DetailsPage.xaml",
+              "ToolTip": "C:\\Users\\mardo\\Desktop\\23\\Dev_C#\\MauiMeals\\MauiMeals\\DetailsPage.xaml",
+              "RelativeToolTip": "MauiMeals\\DetailsPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-23T01:49:50.515Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetailsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mardo\\Desktop\\23\\Dev_C#\\MauiMeals\\MauiMeals\\DetailsPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiMeals\\DetailsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mardo\\Desktop\\23\\Dev_C#\\MauiMeals\\MauiMeals\\DetailsPage.xaml.cs",
+              "RelativeToolTip": "MauiMeals\\DetailsPage.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowGEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T01:49:54.753Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Welcome.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mardo\\Desktop\\23\\Dev_C#\\MauiMeals\\MauiMeals\\Welcome.xaml.cs",
+              "RelativeDocumentMoniker": "MauiMeals\\Welcome.xaml.cs",
+              "ToolTip": "C:\\Users\\mardo\\Desktop\\23\\Dev_C#\\MauiMeals\\MauiMeals\\Welcome.xaml.cs",
+              "RelativeToolTip": "MauiMeals\\Welcome.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:23:17.995Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Welcome.xaml",
+              "DocumentMoniker": "C:\\Users\\mardo\\Desktop\\23\\Dev_C#\\MauiMeals\\MauiMeals\\Welcome.xaml",
+              "RelativeDocumentMoniker": "MauiMeals\\Welcome.xaml",
+              "ToolTip": "C:\\Users\\mardo\\Desktop\\23\\Dev_C#\\MauiMeals\\MauiMeals\\Welcome.xaml",
+              "RelativeToolTip": "MauiMeals\\Welcome.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-27T21:25:41.515Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
