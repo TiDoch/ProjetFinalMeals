@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MauiMeals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+484755d527cd73b3dac48f345e5ec12acf22cb12")]
 [assembly: System.Reflection.AssemblyProductAttribute("MauiMeals")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MauiMeals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

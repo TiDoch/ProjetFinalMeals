@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\mardo\\Desktop\\23\\Dev_C#\\MauiMeals\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22E216B9-A174-4E1F-93D2-C691635920EC}|MauiMeals\\MauiMeals.csproj|C:\\Users\\mardo\\Desktop\\23\\Dev_C#\\MauiMeals\\mauimeals\\detailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{22E216B9-A174-4E1F-93D2-C691635920EC}|MauiMeals\\MauiMeals.csproj|c:\\users\\mardo\\desktop\\23\\dev_c#\\mauimeals\\mauimeals\\detailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{22E216B9-A174-4E1F-93D2-C691635920EC}|MauiMeals\\MauiMeals.csproj|solutionrelative:mauimeals\\detailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{22E216B9-A174-4E1F-93D2-C691635920EC}|MauiMeals\\MauiMeals.csproj|solutionrelative:mauimeals\\detailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22E216B9-A174-4E1F-93D2-C691635920EC}|MauiMeals\\MauiMeals.csproj|c:\\users\\mardo\\desktop\\23\\dev_c#\\mauimeals\\mauimeals\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{22E216B9-A174-4E1F-93D2-C691635920EC}|MauiMeals\\MauiMeals.csproj|C:\\Users\\mardo\\Desktop\\23\\Dev_C#\\MauiMeals\\mauimeals\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{22E216B9-A174-4E1F-93D2-C691635920EC}|MauiMeals\\MauiMeals.csproj|solutionrelative:mauimeals\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -23,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{22E216B9-A174-4E1F-93D2-C691635920EC}|MauiMeals\\MauiMeals.csproj|solutionrelative:mauimeals\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22E216B9-A174-4E1F-93D2-C691635920EC}|MauiMeals\\MauiMeals.csproj|c:\\users\\mardo\\desktop\\23\\dev_c#\\mauimeals\\mauimeals\\welcome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{22E216B9-A174-4E1F-93D2-C691635920EC}|MauiMeals\\MauiMeals.csproj|C:\\Users\\mardo\\Desktop\\23\\Dev_C#\\MauiMeals\\mauimeals\\welcome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{22E216B9-A174-4E1F-93D2-C691635920EC}|MauiMeals\\MauiMeals.csproj|solutionrelative:mauimeals\\welcome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -55,8 +55,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T04:40:27.536Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -82,8 +81,7 @@
               "ViewState": "AQIAADEAAAAAAAAAAAAcwEkAAABfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T04:36:52.387Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -96,8 +94,7 @@
               "ViewState": "AQIAAEIAAAAAAAAAAAAAAGIAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-04-21T04:40:59.738Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -107,7 +104,7 @@
               "RelativeDocumentMoniker": "MauiMeals\\DetailsPage.xaml",
               "ToolTip": "C:\\Users\\mardo\\Desktop\\23\\Dev_C#\\MauiMeals\\MauiMeals\\DetailsPage.xaml",
               "RelativeToolTip": "MauiMeals\\DetailsPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-04-23T01:49:50.515Z",
               "IsPinned": true,
@@ -124,8 +121,7 @@
               "ViewState": "AQIAABsAAAAAAAAAAAAowGEAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T01:49:54.753Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -138,8 +134,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T15:23:17.995Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -152,8 +147,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-04-27T21:25:41.515Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",

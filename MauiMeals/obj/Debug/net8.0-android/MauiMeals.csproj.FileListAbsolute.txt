@@ -1047,3 +1047,4 @@ C:\Users\mardo\Desktop\23\Dev_C#\MauiMeals\MauiMeals\obj\Debug\net8.0-android\an
 C:\Users\mardo\Desktop\23\Dev_C#\MauiMeals\MauiMeals\obj\Debug\net8.0-android\android\marshal_methods.arm64-v8a.o
 C:\Users\mardo\Desktop\23\Dev_C#\MauiMeals\MauiMeals\obj\Debug\net8.0-android\android\jni_remap.arm64-v8a.o
 C:\Users\mardo\Desktop\23\Dev_C#\MauiMeals\MauiMeals\obj\Debug\net8.0-android\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\mardo\Desktop\23\Dev_C#\MauiMeals\MauiMeals\obj\Debug\net8.0-android\MauiMeals.sourcelink.json
